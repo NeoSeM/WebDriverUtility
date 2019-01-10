@@ -15,6 +15,19 @@ Right click on project -> Manage NuGet Packages... -> Browse -> Selenium.WebDriv
 
 Download project, add to new solution, build and run.
 
+### Little example
+
+```
+    SUtility sUtility = new SUtility(Browser.Chrome, hideConsole: true);
+    sUtility.Action.Go2URL("https://example.com/");
+
+    sUtility.Element.ById("userName").WriteText("userName");
+    sUtility.Element.ById("submitBtn").Click();
+    sUtility.Element.ById("password").WriteText("password");
+    sUtility.Element.ById("submitBtn").Click();
+    sUtility.Element.ById("someText").WriteText("Lorem Ipsum");
+    sUtility.Element.ById("searchBtn").Click();
+```
 
 ## Authors
 
