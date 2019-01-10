@@ -13,7 +13,7 @@ Right click on project -> Manage NuGet Packages... -> Browse -> Selenium.WebDriv
 
 ### Installing
 
-Download project, add to new solution, run.
+Download project, add to new solution, build and run.
 
 
 ## Authors
