@@ -27,7 +27,6 @@ sUtility.Element.ById("password").WriteText("password");
 sUtility.Element.ById("submitBtn").Click();
 sUtility.Element.ById("someText").WriteText("Lorem Ipsum");
 sUtility.Element.ById("searchBtn").Click();
-
 ```
 
 ## Authors
