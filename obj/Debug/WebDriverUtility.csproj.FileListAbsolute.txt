@@ -1,0 +1,11 @@
+C:\Users\sem\Source\Repos\Accuity\WebDriverUtility\bin\Debug\Webdrivers\chromedriver.exe
+C:\Users\sem\Source\Repos\Accuity\WebDriverUtility\bin\Debug\Webdrivers\geckodriver.exe
+C:\Users\sem\Source\Repos\Accuity\WebDriverUtility\bin\Debug\WebDriverUtility.dll
+C:\Users\sem\Source\Repos\Accuity\WebDriverUtility\bin\Debug\WebDriverUtility.pdb
+C:\Users\sem\Source\Repos\Accuity\WebDriverUtility\bin\Debug\WebDriver.dll
+C:\Users\sem\Source\Repos\Accuity\WebDriverUtility\bin\Debug\WebDriver.xml
+C:\Users\sem\Source\Repos\Accuity\WebDriverUtility\obj\Debug\WebDriverUtility.csproj.CoreCompileInputs.cache
+C:\Users\sem\Source\Repos\Accuity\WebDriverUtility\obj\Debug\WebDriverUtility.csproj.CopyComplete
+C:\Users\sem\Source\Repos\Accuity\WebDriverUtility\obj\Debug\WebDriverUtility.dll
+C:\Users\sem\Source\Repos\Accuity\WebDriverUtility\obj\Debug\WebDriverUtility.pdb
+C:\Users\sem\Source\Repos\Accuity\WebDriverUtility\obj\Debug\WebDriverUtility.csprojAssemblyReference.cache
